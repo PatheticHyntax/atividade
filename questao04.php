@@ -1,5 +1,5 @@
 <?php
-    #função para buscar o número
+    #função para buscar o númer
     function buscarNum($num) {
         # vetor que será buscado
         $v = [3, 5, 7, 2, 8, 10, 4, 6, 1, 9];

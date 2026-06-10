@@ -1,5 +1,5 @@
 <?php
-# define o maior numero do triangulo
+# define o maior numero do triangul
 $numMax = 5;
 # repeticao para saber o numero que sera impresso
 for ($i = 1; $i <= $numMax; $i++) {

@@ -1,5 +1,5 @@
 <?php
-# declara os 3 primeiros números e deixa um disponível
+# declara os 3 primeiros números e deixa um disponíve
 $num1 = 1; $num2 = 1; $num3 = 2; $num4;
 
 # mostra os 3 primeiros
